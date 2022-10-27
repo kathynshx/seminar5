@@ -1,0 +1,15 @@
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/bin/Debug/net6.0/ex34
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/bin/Debug/net6.0/ex34.deps.json
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/bin/Debug/net6.0/ex34.runtimeconfig.json
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/bin/Debug/net6.0/ex34.dll
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/bin/Debug/net6.0/ex34.pdb
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.csproj.AssemblyReference.cache
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.AssemblyInfoInputs.cache
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.AssemblyInfo.cs
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.csproj.CoreCompileInputs.cache
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.dll
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/refint/ex34.dll
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.pdb
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ex34.genruntimeconfig.cache
+/Users/ekaterinashvalyuk/Desktop/sem5/ex34/obj/Debug/net6.0/ref/ex34.dll
